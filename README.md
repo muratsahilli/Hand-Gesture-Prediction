@@ -9,7 +9,7 @@
  > - prediction.py : Makine öğrenmesi modellerini eğitip sonuçlarını karşılaştırır ve en iyi iki modeli kaydeder. Kaydedilen modeller daha sonra test için kullanılacak
  > - test_py.py : Kaydedilmiş modelleri kullanarak var olan veri seti veya canlı akan veri üzerinden sınıflandırma yapar.
 
-## File explanation:
+## File explanations:
  > - pyqt.py : Records hand movements while tagging. Two different data sets consisting of hand movements were recorded. These datasets are data06.txt and datatest_07.txt
  > - data06.txt : The dataset saved using pyqt.py and used to train the model
  > - datatest_07.txt : The dataset saved using pyqt.py and used to test trained and saved models.
