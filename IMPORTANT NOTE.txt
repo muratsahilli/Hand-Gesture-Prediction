@@ -1,0 +1,3 @@
+The keylistener in the pyqt code is defined as hacktool by antivirus programs. It is recommended to turn off antivirus programs or allow the file to avoid problems.
+
+pyqt kodu içindeki keylistener antivirüs programları tarafından hacktool olarak tanımlanıyor. Sorun yaşamamak için antivirüs programlarını kapatmanız veya dosyaya izin vermeniz önerilir.
